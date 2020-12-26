@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "breakfast One",
+    "price": "$20",
+    "imge": "./img/breackfast-1.jpg",
+    "category": "breakfast",
+    "desc": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Alias voluptatum reprehenderit aliquid aliquam incidunt porro"
+  },
+  {
+    "id": 2,
+    "title": "breakfast Two",
+    "price": "$10",
+    "imge": "./img/breackfast-2.jpg",
+    "category": "breakfast",
+    "desc": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Alias voluptatum reprehenderit aliquid aliquam incidunt porro"
+  },
+  {
+    "id": 3,
+    "title": "breakfast Three",
+    "price": "$50",
+    "imge": "./img/breackfast-3.jpg",
+    "category": "breakfast",
+    "desc": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Alias voluptatum reprehenderit aliquid aliquam incidunt porro"
+  },
+  {
+    "id": 4,
+    "title": "lunch One",
+    "price": "$20",
+    "imge": "./img/lunch-1.jpg",
+    "category": "lunch",
+    "desc": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Alias voluptatum reprehenderit aliquid aliquam incidunt porro"
+  },
+  {
+    "id": 5,
+    "title": "lunch Two",
+    "price": "$10",
+    "imge": "./img/lunch-2.jpg",
+    "category": "lunch",
+    "desc": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Alias voluptatum reprehenderit aliquid aliquam incidunt porro"
+  },
+  {
+    "id": 6,
+    "title": "lunch Three",
+    "price": "$50",
+    "imge": "./img/lunch-3.jpg",
+    "category": "lunch",
+    "desc": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Alias voluptatum reprehenderit aliquid aliquam incidunt porro"
+  },
+  {
+    "id": 7,
+    "title": "Dinner One",
+    "price": "$20",
+    "imge": "./img/dinner-1.jpg",
+    "category": "diner",
+    "desc": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Alias voluptatum reprehenderit aliquid aliquam incidunt porro"
+  },
+  {
+    "id": 8,
+    "title": "Dinner Two",
+    "price": "$10",
+    "imge": "./img/dinner-2.jpg",
+    "category": "diner",
+    "desc": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Alias voluptatum reprehenderit aliquid aliquam incidunt porro"
+  },
+  {
+    "id": 9,
+    "title": "Dinner Three",
+    "price": "$5",
+    "imge": "./img/dinner-3.jpg",
+    "category": "diner",
+    "desc": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Alias voluptatum reprehenderit aliquid aliquam incidunt porro"
+  },
+  {
+    "id": 9,
+    "title": "ehab",
+    "price": "$5",
+    "imge": "./img/dinner-3.jpg",
+    "category": "ehab",
+    "desc": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Alias voluptatum reprehenderit aliquid aliquam incidunt porro"
+  }
+]
